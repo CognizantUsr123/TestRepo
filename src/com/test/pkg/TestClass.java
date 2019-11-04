@@ -12,6 +12,8 @@ public class TestClass {
 		System.out.println("Commit check from first usser4");
 
 		System.out.println("Commit check from first usser3");
+		
+		System.out.println("New changes made as User1");
 
 	}
 
