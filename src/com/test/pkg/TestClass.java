@@ -8,7 +8,7 @@ public class TestClass {
 
 		System.out.println("Commit check from first user conflict check  ");
 
-		System.out.println("Commit check from first usser2");
+		System.out.println("Commit check from first usser3");
 	}
 
 }
