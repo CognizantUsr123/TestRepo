@@ -6,18 +6,6 @@ public class TestClass {
 		// TODO Auto-generated method stub
 
 
-		System.out.println("Commit check from first user conflict check  ");
-
-
-		System.out.println("Commit check from first usser4");
-
-		System.out.println("Commit check from first usser3");
-		
-		System.out.println("New changes made as User1");
-		
-		System.out.println("Updated changes by user1");
-		//This is conflict check 2
-		System.out.println("Updated changes by user2.0");
 
 		
 
